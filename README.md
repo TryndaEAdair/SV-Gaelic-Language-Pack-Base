@@ -3,10 +3,11 @@ This is a repository containing a basic structure for a Stardew Valley content p
 
 
 
-=== Included Assets ===
+=== Included Assets & Resources ===
 - Stardew Valley Styled Fonts
 - GIMP Project Files for modified sprite images
 	* Must have provided fonts installed and the GIMP application to open files
+- Microsoft Scottish Gaelic Style Guide. This is a guideline for UI (User Interface) development. 
 
 
 
