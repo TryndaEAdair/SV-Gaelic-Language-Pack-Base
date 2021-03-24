@@ -1,0 +1,12 @@
+{
+   "Name": "Language Content Pack for Stardew Valley",
+   "Author": "Trynda E. Adair",
+   "Version": "0.1.0",
+   "Description": "Unofficial language content pack for Stardew Valley.",
+   "UniqueID": "teadair.SVLangCP",
+   "MinimumApiVersion": "2.6",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

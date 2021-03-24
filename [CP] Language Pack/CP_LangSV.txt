@@ -1,0 +1,17 @@
+﻿Welcome to translated Stardew Valley!
+
+
+
+=== Content Pack Installation instructions ===
+Requirements: SMAPI 2.6 or above installed and Content Patcher 1.4 mod or higher installed
+SMAPI: https://www.nexusmods.com/stardewvalley/mods/2400?tab=files
+Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915?tab=files
+Note: Only when installing SMAPI will there be the Mods folder
+
+Step 1: Extract the downloaded .zip file
+
+Step 2: Copy the entire folder [CP] Gaelic to the Mods folder in the folder where the game is installed.
+Windows example - "C: \ Program Files \ Stardew Valley \ Mods" or "Steam \ steamapps \ common \ Stardew Valley \ Mods"
+Andriod example - "\ Stardew Valley \ Mods "
+
+Step 3: Enter the game, click to select the language, if there is "Language", you will be successful. If you do not see it, check the game installation directory in step 1.
