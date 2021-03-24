@@ -1,5 +1,5 @@
-# SV_EN-Language-CP-Base
-This is a repository containing a basic structure for a Stardew Valley content pack to add custom language support. Only files containing updatable text will be included to reduce download sizes. Some text is built into the images and will require modification with a tool like Photoshop/GIMP, so some similar fonts have been included as a starting point to achieving this.
+# [CP] Scots Gaelic Language Pack
+This is a repository containing a basic structure for a Stardew Valley content pack to add custom language support for Scottish Gaelic. Only files containing updatable text will be included to reduce download sizes. Some text is built into the images and will require modification with a tool like Photoshop/GIMP, so some similar fonts have been included as a starting point to achieving this.
 
 
 === Content Pack Requirements ===
