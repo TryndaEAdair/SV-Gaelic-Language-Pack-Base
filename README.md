@@ -2,12 +2,21 @@
 This is a repository containing a basic structure for a Stardew Valley content pack to add custom language support for Scottish Gaelic. Only files containing updatable text will be included to reduce download sizes. Some text is built into the images and will require modification with a tool like Photoshop/GIMP, so some similar fonts have been included as a starting point to achieving this.
 
 
+
+=== Included Assets ===
+- Stardew Valley Styled Fonts
+- GIMP Project Files for modified sprite images
+	* Must have provided fonts installed and the GIMP application to open files
+
+
+
 === Content Pack Requirements ===
 SMAPI 2.6 or above installed and Content Patcher 1.4 mod or higher installed. 
 *Note: Only when installing SMAPI will there be the Mods folder
 
 SMAPI: https://www.nexusmods.com/stardewvalley/mods/2400?tab=files
 Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915?tab=files
+
 
 
 === Current Development Points of Interest ===
