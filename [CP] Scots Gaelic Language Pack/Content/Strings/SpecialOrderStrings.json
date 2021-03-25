@@ -38,7 +38,7 @@
 	"Gus_RE_Greeting_0": "I've got the urge to make my famous giant omelet",
 	"Gus_RE_Greeting_1": "I've got the urge to make another giant omelet",
 	"Lewis_Name": "Crop Order",
-	"Lewis_Text": "{Text} Anyone who ships 100 {Crop:TextPlural} by the end of the season will earn a substantial reward from the Pelican Town Agricultural Fund.",
+	"Lewis_Text": "{Text} Anyone who ships 100 {Crop:TextPlural} by the end of the season will earn a substantial reward from the Selkirk Agricultural Fund.",
 	"Lewis_Objective_1_Text": "Harvest 100 {Crop:Text}.",
 	"Lewis_Objective_0_Text": "Ship 100 {Crop:Text}.",
 	"Lewis_RE_Text_0": "{Crop:TextPluralCapitalized} are in high demand this year. ",
