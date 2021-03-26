@@ -28,3 +28,6 @@ I'm still working on some minor things, like how to add a language to the list o
 
 === Easter Eggs ===
 Pelican Town has been renamed to Selkirk (Salcraig), the town where the content pack creator grew up around.
+
+
+
