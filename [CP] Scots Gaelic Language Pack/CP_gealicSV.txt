@@ -15,3 +15,10 @@ Windows example - "C: \ Program Files \ Stardew Valley \ Mods" or "Steam \ steam
 Andriod example - "\ Stardew Valley \ Mods "
 
 Step 3: Enter the game, click to select the language, if there is "Gaelic", you will be successful. If you do not see it, check the game installation directory in step 1.
+
+
+
+
+=== Change Log ===
+1.0 - File structure setup and first sprite modifications.
+1.1 - File structure rename to allow for easier future langugae support.
