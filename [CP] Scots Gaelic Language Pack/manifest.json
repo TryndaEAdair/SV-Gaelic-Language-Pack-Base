@@ -10,7 +10,4 @@
       "UniqueID": "Pathoschild.ContentPatcher",
 		"MinimumVersion": "1.0.0"
    }
-   "Dependencies": [
-   { "UniqueID": "Pathoschild.ContentPatcher", "IsRequired": true }
-]
 }
