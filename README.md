@@ -31,3 +31,10 @@ Pelican Town has been renamed to Selkirk (Salcraig), the town where the content 
 
 
 
+
+
+
+=== Change Log ===
+1.0 - File structure setup and first sprite modifications.
+1.1 - File structure rename to allow for easier future langugae support.
+1.1.1 - Cleaning up file structure and updating content.json format to most current supported version.
