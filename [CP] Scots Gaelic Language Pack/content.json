@@ -1337,10 +1337,7 @@
 	  {
          "Action": "Load",
          "Target": "Minigames/TitleButtons",
-         "FromFile": "Content/Minigames/TitleButtons.gd-GD.png",
-		 "When": {
-			"Language": "en"
-		  }
+         "FromFile": "Content/Minigames/TitleButtons.gd-GD.png"
       },
 	  {
          "Action": "Load",
