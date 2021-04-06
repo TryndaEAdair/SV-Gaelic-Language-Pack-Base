@@ -1,0 +1,13 @@
+{
+   "Name": "Scottish Gaelic translation of Stardew Valley",
+   "Author": "Trynda E. Adair",
+   "Version": "1.1.0",
+   "Description": "Unofficial Scottish Gaelic translation language pack for Stardew Valley.",
+   "UniqueID": "TEAdair.ScotsGaelicSVLanguagePack",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": ["GitHub: SkyEdwards/SV-English-Language-Pack-Base"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+		"MinimumVersion": "1.0.0"
+   }
+}
