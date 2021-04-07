@@ -28,3 +28,4 @@ Step 3: Enter the game, click to select the language, if there is "Gaelic", you 
 			- Content/Strings/Lexicon.gd-GD.json
 			- Content/String/StringsFromCSFiles.gd-GD.json
 		- Updated g (gold) to sg (sgillinn)
+1.2.1 	- Completed translations in Content/Strings/Lexicon.gd-GD.json
