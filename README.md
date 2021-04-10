@@ -35,6 +35,15 @@ Pelican Town has been renamed to Selkirk (Salcraig), the town where the content 
 
 
 === Change Log ===
-1.0 - File structure setup and first sprite modifications.
-1.1 - File structure rename to allow for easier future langugae support.
-1.1.1 - Cleaning up file structure and updating content.json format to most current supported version.
+1.0 	- File structure setup and first sprite modifications.
+1.1 	- File structure rename to allow for easier future langugae support.
+1.1.1 	- Cleaning up file structure and updating content.json format to most current supported version.
+1.2 	- Updating simple UI strings in following files:
+			- Content/Strings/UI.gd_GD.json
+			- Content/Strings/Lexicon.gd-GD.json
+			- Content/String/StringsFromCSFiles.gd-GD.json
+		- Updated g (gold) to sg (sgillinn)
+1.2.1 	- Completed translations in Content/Strings/Lexicon.gd-GD.json
+1.2.2 	- Updating simple UI strings in following files:
+			- Content/Strings/UI.gd_GD.json
+			- Content/String/StringsFromCSFiles.gd-GD.json

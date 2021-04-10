@@ -1,7 +1,6 @@
 ﻿Welcome to Scottish Gaelic Stardew Valley!
 
 
-
 === Installation instructions ===
 Requirements: SMAPI 2.6 or above installed and Content Patcher 1.4 mod or higher installed
 SMAPI: https://www.nexusmods.com/stardewvalley/mods/2400?tab=files
@@ -19,6 +18,15 @@ Step 3: Enter the game, click to select the language, if there is "Gaelic", you 
 
 
 
+
+*** If you would like to help contribute to this translation, or to fork this branch 
+and translate in your own dialect, the code repository is located at:
+
+https://github.com/SkyEdwards/SV-Gaelic-Language-Pack-Base
+
+all you need to do is swap out the english :) 
+
+
 === Change Log ===
 1.0 	- File structure setup and first sprite modifications.
 1.1 	- File structure rename to allow for easier future langugae support.
@@ -29,3 +37,5 @@ Step 3: Enter the game, click to select the language, if there is "Gaelic", you 
 			- Content/String/StringsFromCSFiles.gd-GD.json
 		- Updated g (gold) to sg (sgillinn)
 1.2.1 	- Completed translations in Content/Strings/Lexicon.gd-GD.json
+1.2.2 	- Updating simple UI strings in following files:
+			- Content/Strings/UI.gd_GD.json
