@@ -800,5 +800,7 @@
 	"AGO_EasyMode_Tooltip": "Makes some aspects of the game easier, and reduces penalties.",
 	"ParrotPlatform_Question": "Take Parrot Express?",
 	"PlayerLimit": "Player Limit",
-	"DisplayAdjustmentText": "Press up/down to adjust the screen size to fit your display."
+	"DisplayAdjustmentText": "Press up/down to adjust the screen size to fit your display.",
+	"question_restore_backup": "Would You Like To Restore From Backup?",
+	"tutorialWant": "Show Tutorial Tips?"
 }
