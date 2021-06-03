@@ -46,4 +46,5 @@ Pelican Town has been renamed to Selkirk (Salcraig), the town where the content 
 1.2.1 	- Completed translations in Content/Strings/Lexicon.gd-GD.json
 1.2.2 	- Updating simple UI strings in following files:
 			- Content/Strings/UI.gd_GD.json
-			- Content/String/StringsFromCSFiles.gd-GD.json
+			- Content/Strings/NPCNames.gd-GD.json
+			
