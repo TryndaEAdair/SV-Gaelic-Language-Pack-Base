@@ -801,6 +801,21 @@
 	"ParrotPlatform_Question": "Take Parrot Express?",
 	"PlayerLimit": "Player Limit",
 	"DisplayAdjustmentText": "Press up/down to adjust the screen size to fit your display.",
-	"question_restore_backup": "Would You Like To Restore From Backup?",
-	"tutorialWant": "Show Tutorial Tips?"
+	// custom added for missing movile strings
+	"question_restore_backup": "Would You Like To Restore From Where You Previously Left Off?",
+	"tutorialWant": "Show Tutorial Tips?",
+	"shippingInstructionText": "Drop items here to ship them for sale.",
+	"swap_saves": "Swap to previous save",
+	"save_backup": "Save Backup",
+	"control_method_tap_to_move": "Tap-to-move & Auto-Attack",
+	"show_controls_toggle_button": "Show controls toggle button",
+	"invisible_button_width": "Invisible Button Width",
+	"mobile_options_vertical_toolbar": "Vertical Toolbar",
+	"mobile_options_green_squares": "Item Placement Guide",
+	"mobile_options_bigger_numbers": "Bigger Font for Numbers",
+	"pinch_zoom": "Pinch Zoom",
+	"mobile_options_menu_side_margin": "Menu padding",
+	"mobile_options_toolbar_padding": "Toolbar padding",
+	"mobile_options_toolbar_slot_size": "Toolbar size",
+	"mobile_options_date_time_size": "Date box size"
 }

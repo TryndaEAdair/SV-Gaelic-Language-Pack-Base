@@ -89,3 +89,5 @@ Pelican Town has been renamed to Selkirk (Salcraig), the town where the content 
 				- This is a proactive mesure to ensure the sprite file is not overwriten by accident by an update.
 				  The basic LanguageButtons.png  is required to be mirrored to ensure languages sprite is present on load. 
 			- MobileAtlas_manually_made.gd-GD.png
+		- Added missing mobile UI strings in file:
+			- Content/Strings/UI.gd_GD.json	
