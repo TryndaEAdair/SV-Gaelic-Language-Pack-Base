@@ -464,7 +464,7 @@
 		 "When": {
 			"Language": "en"
 		  }
-      },
+      }, 
 	  {
          "Action": "Load",
          "Target": "Data/Concessions",
@@ -1108,7 +1108,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/LanguageButtons",
-         "FromFile": "Content/LooseSprites/LanguageButtons.png"
+         "FromFile": "Content/LooseSprites/LanguageButtons.gd-GD.png"
       },
 	  {
          "Action": "Load",
@@ -1122,14 +1122,6 @@
          "Action": "Load",
          "Target": "LooseSprites/Movies",
          "FromFile": "Content/LooseSprites/Movies.gd-GD.png",
-		 "When": {
-			"Language": "en"
-		  }
-      },
-	  {
-         "Action": "Load",
-         "Target": "LooseSprites/temporary_sprites_1",
-         "FromFile": "Content/LooseSprites/temporary_sprites_1.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1731,6 +1723,55 @@
 			"Language": "en"
 		  }
       },
+	  {
+         "Action": "Load",
+         "Target": "TileSheets/furniture",
+         "FromFile": "Content/TileSheets/furniture.gd-GD.png",
+		 "When": {
+			"Language": "en"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/samshowtiles",
+         "FromFile": "Content/Maps/samshowtiles.gd-GD.png",
+		 "When": {
+			"Language": "en"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/CraneGame",
+         "FromFile": "Content/LooseSprites/CraneGame_international.png",
+		 "When": {
+			"Language": "en"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/MobileAtlas_manually_made",
+         "FromFile": "Content/LooseSprites/MobileAtlas_manually_made.gd-GD.png",
+		 "When": {
+			"Language": "en"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/LanguageButtons",
+         "FromFile": "Content/LooseSprites/LanguageButtons.gd-GD.png",
+		 "When": {
+			"Language": "en"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/logo",
+         "FromFile": "Content/LooseSprites/logo.gd-GD.png",
+		 "When": {
+			"Language": "en"
+		  }
+      },
+	  
 	  
 	  
    ]
