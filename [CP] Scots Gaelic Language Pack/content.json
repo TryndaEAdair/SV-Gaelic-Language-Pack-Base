@@ -1757,14 +1757,6 @@
       },
 	  {
          "Action": "Load",
-         "Target": "LooseSprites/LanguageButtons",
-         "FromFile": "Content/LooseSprites/LanguageButtons.gd-GD.png",
-		 "When": {
-			"Language": "en"
-		  }
-      },
-	  {
-         "Action": "Load",
          "Target": "LooseSprites/logo",
          "FromFile": "Content/LooseSprites/logo.gd-GD.png",
 		 "When": {
