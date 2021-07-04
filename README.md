@@ -91,3 +91,4 @@ Pelican Town has been renamed to Selkirk (Salcraig), the town where the content 
 			- MobileAtlas_manually_made.gd-GD.png
 		- Added missing mobile UI strings in file:
 			- Content/Strings/UI.gd_GD.json	
+1.3.0.1	- Removed duplicate referance to language buttons causing conflict on load on content.json
