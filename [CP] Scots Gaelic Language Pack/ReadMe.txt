@@ -90,3 +90,4 @@ all you need to do is swap out the english :)
 1.3.0.1	- Removed duplicate referance to language buttons causing conflict on load on content.json
 1.3.0.2	- Renamed CP_gaelicSV.txt to ReadMe.txt for clarity
 		- Corrected typo of Gleann Dealtreul in Intro.gd-GD.png
+		- Updated Manifest with new mod name of -Gleann Dealtreul- and updated version.
