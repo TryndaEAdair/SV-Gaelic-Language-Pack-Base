@@ -801,7 +801,7 @@
 	"ParrotPlatform_Question": "Take Parrot Express?",
 	"PlayerLimit": "Player Limit",
 	"DisplayAdjustmentText": "Press up/down to adjust the screen size to fit your display.",
-	// custom added for missing movile strings
+	"dev_comment": "▼▼▼ strings added for missing mobile strings ▼▼▼",
 	"question_restore_backup": "Would You Like To Restore From Where You Previously Left Off?",
 	"tutorialWant": "Show Tutorial Tips?",
 	"shippingInstructionText": "Drop items here to ship them for sale.",
