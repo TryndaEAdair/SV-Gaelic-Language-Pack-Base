@@ -1,8 +1,8 @@
 {
    "Name": "Gleann Dealtreul",
    "Author": "Trynda E. Adair",
-   "Version": "1.3.0.2",
-   "Description": "Unofficial Scottish Gaelic translation language pack for Stardew Valley using the Gáilig Dhail Riada dialect.",
+   "Version": "1.5",
+   "Description": "Unofficial Gaelic language pack for Stardew Valley.",
    "UniqueID": "TEAdair.GleannDealtreul",
    "MinimumApiVersion": "2.5",
    "UpdateKeys": ["GitHub:SkyEdwards/SV-Gaelic-Language-Pack-Base", "Nexus:8442"],

@@ -1,0 +1,1770 @@
+{
+   "Format": "1.19.0",
+   "Changes": [
+ 	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Abigail",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Abigail.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+ 	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Alex",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Alex.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Caroline",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Caroline.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Clint",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Clint.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Demetrius",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Demetrius.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Dwarf",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Dwarf.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Elliott",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Elliott.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Emily",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Emily.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Evelyn",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Evelyn.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/George",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/George.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Gil",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Gil.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Gus",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Gus.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Haley",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Haley.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Harvey",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Harvey.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Jas",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Jas.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Jodi",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Jodi.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Kent",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Kent.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Krobus",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Krobus.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Leah",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Leah.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Leo",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Leo.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/LeoMainland",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/LeoMainland.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Lewis",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Lewis.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Linus",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Linus.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Marnie",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Marnie.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogue",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogue.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueAbigail.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueAlex",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueAlex.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueElliott",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueElliott.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueEmily",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueEmily.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueHaley",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueHaley.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueHarvey.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueKrobus.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueLeah",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueLeah.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueMaru",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueMaru.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialoguePenny",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialoguePenny.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueSam",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueSam.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueSebastian.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/MarriageDialogueShane",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/MarriageDialogueShane.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Maru",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Maru.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Mister Qi",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Mister Qi.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Pam",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Pam.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Penny",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Penny.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Pierre",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Pierre.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/rainy",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/rainy.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Robin",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Robin.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Sam",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Sam.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Sandy",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Sandy.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Sebastian",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Sebastian.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Shane",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Shane.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Vincent",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Vincent.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Willy",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Willy.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Characters/Dialogue/Wizard",
+         "FromFile": "Content/gd_GDR/Characters/Dialogue/Wizard.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Achievements",
+         "FromFile": "Content/gd_GDR/Data/Achievements.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/BigCraftablesInformation",
+         "FromFile": "Content/gd_GDR/Data/BigCraftablesInformation.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Blueprints",
+         "FromFile": "Content/gd_GDR/Data/Blueprints.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Boots",
+         "FromFile": "Content/gd_GDR/Data/Boots.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Bundles",
+         "FromFile": "Content/gd_GDR/Data/Bundles.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/ClothingInformation",
+         "FromFile": "Content/gd_GDR/Data/ClothingInformation.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      }, 
+	  {
+         "Action": "Load",
+         "Target": "Data/Concessions",
+         "FromFile": "Content/gd_GDR/Data/Concessions.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/CookingRecipes",
+         "FromFile": "Content/gd_GDR/Data/CookingRecipes.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/CraftingRecipes",
+         "FromFile": "Content/gd_GDR/Data/CraftingRecipes.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/EngagementDialogue",
+         "FromFile": "Content/gd_GDR/Data/EngagementDialogue.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/ExtraDialogue",
+         "FromFile": "Content/gd_GDR/Data/ExtraDialogue.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/FarmAnimals",
+         "FromFile": "Content/gd_GDR/Data/FarmAnimals.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Fish",
+         "FromFile": "Content/gd_GDR/Data/Fish.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Furniture",
+         "FromFile": "Content/gd_GDR/Data/Furniture.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/hats",
+         "FromFile": "Content/gd_GDR/Data/hats.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/mail",
+         "FromFile": "Content/gd_GDR/Data/mail.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Monsters",
+         "FromFile": "Content/gd_GDR/Data/Monsters.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Movies",
+         "FromFile": "Content/gd_GDR/Data/Movies.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/MoviesReactions",
+         "FromFile": "Content/gd_GDR/Data/MoviesReactions.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/NPCDispositions",
+         "FromFile": "Content/gd_GDR/Data/NPCDispositions.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/NPCGiftTastes",
+         "FromFile": "Content/gd_GDR/Data/NPCGiftTastes.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/ObjectInformation",
+         "FromFile": "Content/gd_GDR/Data/ObjectInformation.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Quests",
+         "FromFile": "Content/gd_GDR/Data/Quests.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/SecretNotes",
+         "FromFile": "Content/gd_GDR/Data/SecretNotes.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/weapons",
+         "FromFile": "Content/gd_GDR/Data/weapons.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/AbandonedJojaMart",
+         "FromFile": "Content/gd_GDR/Data/Events/AbandonedJojaMart.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/AnimalShop",
+         "FromFile": "Content/gd_GDR/Data/Events/AnimalShop.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/ArchaeologyHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/ArchaeologyHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Backwoods",
+         "FromFile": "Content/gd_GDR/Data/Events/Backwoods.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/BathHouse_Pool",
+         "FromFile": "Content/gd_GDR/Data/Events/BathHouse_Pool.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Beach",
+         "FromFile": "Content/gd_GDR/Data/Events/Beach.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/BoatTunnel",
+         "FromFile": "Content/gd_GDR/Data/Events/BoatTunnel.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/BusStop",
+         "FromFile": "Content/gd_GDR/Data/Events/BusStop.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/CommunityCenter",
+         "FromFile": "Content/gd_GDR/Data/Events/CommunityCenter.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/ElliottHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/ElliottHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Farm",
+         "FromFile": "Content/gd_GDR/Data/Events/Farm.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/FarmHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/FarmHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/FishShop",
+         "FromFile": "Content/gd_GDR/Data/Events/FishShop.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Forest",
+         "FromFile": "Content/gd_GDR/Data/Events/Forest.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/HaleyHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/HaleyHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/HarveyRoom",
+         "FromFile": "Content/gd_GDR/Data/Events/HarveyRoom.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Hospital",
+         "FromFile": "Content/gd_GDR/Data/Events/Hospital.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/IslandHut",
+         "FromFile": "Content/gd_GDR/Data/Events/IslandHut.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/IslandNorth",
+         "FromFile": "Content/gd_GDR/Data/Events/IslandNorth.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/IslandSouth",
+         "FromFile": "Content/gd_GDR/Data/Events/IslandSouth.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/IslandWest",
+         "FromFile": "Content/gd_GDR/Data/Events/IslandWest.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/JoshHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/JoshHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/LeahHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/LeahHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/ManorHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/ManorHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Mine",
+         "FromFile": "Content/gd_GDR/Data/Events/Mine.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Mountain",
+         "FromFile": "Content/gd_GDR/Data/Events/Mountain.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/QiNutRoom",
+         "FromFile": "Content/gd_GDR/Data/Events/QiNutRoom.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Railroad",
+         "FromFile": "Content/gd_GDR/Data/Events/Railroad.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Saloon",
+         "FromFile": "Content/gd_GDR/Data/Events/Saloon.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/SamHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/SamHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/SandyHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/SandyHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/ScienceHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/ScienceHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/SebastianRoom",
+         "FromFile": "Content/gd_GDR/Data/Events/SebastianRoom.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/SeedShop",
+         "FromFile": "Content/gd_GDR/Data/Events/SeedShop.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Sewer",
+         "FromFile": "Content/gd_GDR/Data/Events/Sewer.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Sunroom",
+         "FromFile": "Content/gd_GDR/Data/Events/Sunroom.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Temp",
+         "FromFile": "Content/gd_GDR/Data/Events/Temp.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Tent",
+         "FromFile": "Content/gd_GDR/Data/Events/Tent.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Town",
+         "FromFile": "Content/gd_GDR/Data/Events/Town.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Trailer",
+         "FromFile": "Content/gd_GDR/Data/Events/Trailer.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Trailer_Big",
+         "FromFile": "Content/gd_GDR/Data/Events/Trailer_Big.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/WizardHouse",
+         "FromFile": "Content/gd_GDR/Data/Events/WizardHouse.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Events/Woods",
+         "FromFile": "Content/gd_GDR/Data/Events/Woods.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/fall16",
+         "FromFile": "Content/gd_GDR/Data/Festivals/fall16.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/fall27",
+         "FromFile": "Content/gd_GDR/Data/Festivals/fall27.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/FestivalDates",
+         "FromFile": "Content/gd_GDR/Data/Festivals/FestivalDates.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/spring13",
+         "FromFile": "Content/gd_GDR/Data/Festivals/spring13.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/spring24",
+         "FromFile": "Content/gd_GDR/Data/Festivals/spring24.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/summer11",
+         "FromFile": "Content/gd_GDR/Data/Festivals/summer11.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/summer28",
+         "FromFile": "Content/gd_GDR/Data/Festivals/summer28.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/winter8",
+         "FromFile": "Content/gd_GDR/Data/Festivals/winter8.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/Festivals/winter25",
+         "FromFile": "Content/gd_GDR/Data/Festivals/winter25.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/TV/CookingChannel",
+         "FromFile": "Content/gd_GDR/Data/TV/CookingChannel.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/TV/InterviewShow",
+         "FromFile": "Content/gd_GDR/Data/TV/InterviewShow.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Data/TV/TipChannel",
+         "FromFile": "Content/gd_GDR/Data/TV/TipChannel.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/Billboard",
+         "FromFile": "Content/gd_GDR/LooseSprites/Billboard.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/ControllerMaps",
+         "FromFile": "Content/gd_GDR/LooseSprites/ControllerMaps.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/Cursors",
+         "FromFile": "Content/gd_GDR/LooseSprites/Cursors.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/Cursors2",
+         "FromFile": "Content/gd_GDR/LooseSprites/Cursors2.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/JojaCDForm",
+         "FromFile": "Content/gd_GDR/LooseSprites/JojaCDForm.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/JunimoNote",
+         "FromFile": "Content/gd_GDR/LooseSprites/JunimoNote.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/LanguageButtons",
+         "FromFile": "Content/gd_GDR/LooseSprites/LanguageButtons.gd-GD.png"
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/Logo",
+         "FromFile": "Content/gd_GDR/LooseSprites/Logo.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/Movies",
+         "FromFile": "Content/gd_GDR/LooseSprites/Movies.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/yellowLettersLogo",
+         "FromFile": "Content/gd_GDR/LooseSprites/yellowLettersLogo.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/bathhouse_tiles",
+         "FromFile": "Content/gd_GDR/Maps/bathhouse_tiles.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/coopTiles",
+         "FromFile": "Content/gd_GDR/Maps/coopTiles.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/DesertTiles",
+         "FromFile": "Content/gd_GDR/Maps/DesertTiles.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/fall_beach",
+         "FromFile": "Content/gd_GDR/Maps/fall_beach.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/fall_outdoorsTileSheet",
+         "FromFile": "Content/gd_GDR/Maps/fall_outdoorsTileSheet.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/fall_town",
+         "FromFile": "Content/gd_GDR/Maps/fall_town.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/Festivals",
+         "FromFile": "Content/gd_GDR/Maps/Festivals.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/samshowtiles",
+         "FromFile": "Content/gd_GDR/Maps/samshowtiles.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/spring_beach",
+         "FromFile": "Content/gd_GDR/Maps/spring_beach.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/spring_outdoorsTileSheet",
+         "FromFile": "Content/gd_GDR/Maps/spring_outdoorsTileSheet.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/spring_town",
+         "FromFile": "Content/gd_GDR/Maps/spring_town.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/springobjects",
+         "FromFile": "Content/gd_GDR/Maps/springobjects.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/stadium_tiles",
+         "FromFile": "Content/gd_GDR/Maps/stadium_tiles.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/summer_beach",
+         "FromFile": "Content/gd_GDR/Maps/summer_beach.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/summer_outdoorsTileSheet",
+         "FromFile": "Content/gd_GDR/Maps/summer_outdoorsTileSheet.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/summer_town",
+         "FromFile": "Content/gd_GDR/Maps/summer_town.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/TownIndoors",
+         "FromFile": "Content/gd_GDR/Maps/TownIndoors.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/townInterior",
+         "FromFile": "Content/gd_GDR/Maps/townInterior.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/winter_beach",
+         "FromFile": "Content/gd_GDR/Maps/winter_beach.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/winter_outdoorsTileSheet",
+         "FromFile": "Content/gd_GDR/Maps/winter_outdoorsTileSheet.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/winter_town",
+         "FromFile": "Content/gd_GDR/Maps/winter_town.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Minigames/Intro",
+         "FromFile": "Content/gd_GDR/Minigames/Intro.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Minigames/jojacorps",
+         "FromFile": "Content/gd_GDR/Minigames/jojacorps.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Minigames/MineCart",
+         "FromFile": "Content/gd_GDR/Minigames/MineCart.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Minigames/TitleButtons",
+         "FromFile": "Content/gd_GDR/Minigames/TitleButtons.gd-GD.png"
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/animationDescriptions",
+         "FromFile": "Content/gd_GDR/Strings/animationDescriptions.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Buildings",
+         "FromFile": "Content/gd_GDR/Strings/Buildings.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/BundleNames",
+         "FromFile": "Content/gd_GDR/Strings/BundleNames.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Characters",
+         "FromFile": "Content/gd_GDR/Strings/Characters.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/credits",
+         "FromFile": "Content/gd_GDR/Strings/credits.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/EnchantmentNames",
+         "FromFile": "Content/gd_GDR/Strings/EnchantmentNames.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Events",
+         "FromFile": "Content/gd_GDR/Strings/Events.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/FarmAnimals",
+         "FromFile": "Content/gd_GDR/Strings/FarmAnimals.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Lexicon",
+         "FromFile": "Content/gd_GDR/Strings/Lexicon.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Locations",
+         "FromFile": "Content/gd_GDR/Strings/Locations.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Notes",
+         "FromFile": "Content/gd_GDR/Strings/Notes.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/NPCNames",
+         "FromFile": "Content/gd_GDR/Strings/NPCNames.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Objects",
+         "FromFile": "Content/gd_GDR/Strings/Objects.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/Quests",
+         "FromFile": "Content/gd_GDR/Strings/Quests.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/SpecialOrderStrings",
+         "FromFile": "Content/gd_GDR/Strings/SpecialOrderStrings.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/SpeechBubbles",
+         "FromFile": "Content/gd_GDR/Strings/SpeechBubbles.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/StringsFromCSFiles",
+         "FromFile": "Content/gd_GDR/Strings/StringsFromCSFiles.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/StringsFromMaps",
+         "FromFile": "Content/gd_GDR/Strings/StringsFromMaps.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      }, 
+ 	  {
+         "Action": "Load",
+         "Target": "Strings/UI",
+         "FromFile": "Content/gd_GDR/Strings/UI.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Abigail",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Abigail.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Alex",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Alex.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Caroline",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Caroline.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Clint",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Clint.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Demetrius",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Demetrius.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Elliott",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Elliott.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Emily",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Emily.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Evelyn",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Evelyn.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/George",
+         "FromFile": "Content/gd_GDR/Strings/schedules/George.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Gus",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Gus.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Haley",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Haley.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Harvey",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Harvey.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Jas",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Jas.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Jodi",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Jodi.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Leah",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Leah.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Leo",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Leo.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Lewis",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Lewis.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Linus",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Linus.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Marnie",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Marnie.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Maru",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Maru.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Pam",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Pam.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Penny",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Penny.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Pierre",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Pierre.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Robin",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Robin.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Sam",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Sam.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Sandy",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Sandy.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Sebastian",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Sebastian.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Shane",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Shane.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Vincent",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Vincent.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Strings/schedules/Willy",
+         "FromFile": "Content/gd_GDR/Strings/schedules/Willy.gd-GD.json",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "TileSheets/furniture",
+         "FromFile": "Content/gd_GDR/TileSheets/furniture.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "Maps/samshowtiles",
+         "FromFile": "Content/gd_GDR/Maps/samshowtiles.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/CraneGame",
+         "FromFile": "Content/gd_GDR/LooseSprites/CraneGame_international.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/MobileAtlas_manually_made",
+         "FromFile": "Content/gd_GDR/LooseSprites/MobileAtlas_manually_made.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  {
+         "Action": "Load",
+         "Target": "LooseSprites/logo",
+         "FromFile": "Content/gd_GDR/LooseSprites/logo.gd-GD.png",
+		 "When": {
+			"Language": "de"
+		  }
+      },
+	  
+	  
+	  
+   ]
+}

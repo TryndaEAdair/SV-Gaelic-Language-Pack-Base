@@ -1,5 +1,5 @@
-# [CP] Scots Gaelic Language Pack
-This is a repository containing a basic structure for a Stardew Valley content pack to add custom language support for Scottish Gaelic. Only files containing updatable text will be included to reduce download sizes. Some text is built into the images and will require modification with a tool like Photoshop/GIMP, so some similar fonts have been included as a starting point to achieving this.
+# [CP] Gleann Dealtreul
+This is a repository containing a basic structure for a Stardew Valley content pack to add custom language support for the Gaelic language. Only files containing updatable text will be included to reduce download sizes. Some text is built into the images and will require modification with a tool like Photoshop/GIMP, so some similar fonts have been included as a starting point to achieving this.
 
 
 
@@ -95,3 +95,8 @@ Pelican Town has been renamed to Selkirk (Salcraig), the town where the content 
 1.3.0.2	- Renamed CP_gaelicSV.txt to ReadMe.txt for clarity
 		- Corrected typo of Gleann Dealtreul in Intro.gd-GD.png
 		- Updated Manifest with new mod name of -Gleann Dealtreul- and updated version.
+1.4 - Correcting version number in manifest file to allow mod to run. 
+1.5 - Updating to include multiple dialtects at request of local language community. 
+		- Updating language selection sprite to include multiple dialects
+		- setting Gaedhlig Uisge Dhearg as default dialect at request of diaspora community.
+	- Making Load Screen icon's font more clear.

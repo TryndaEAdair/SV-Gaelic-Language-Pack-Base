@@ -91,3 +91,8 @@ all you need to do is swap out the english :)
 1.3.0.2	- Renamed CP_gaelicSV.txt to ReadMe.txt for clarity
 		- Corrected typo of Gleann Dealtreul in Intro.gd-GD.png
 		- Updated Manifest with new mod name of -Gleann Dealtreul- and updated version.
+1.4 - Correcting version number in manifest file to allow mod to run. 
+1.5 - Updating to include multiple dialtects at request of local language community.
+		- Updating language selection sprite to include multiple dialects
+		- setting Gaedhlig Uisge Dhearg as default dialect at request of diaspora community.
+	- Making Load Screen icon's font more clear.

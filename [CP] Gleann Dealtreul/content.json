@@ -4,7 +4,7 @@
  	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Abigail",
-         "FromFile": "Content/Characters/Dialogue/Abigail.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Abigail.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -12,7 +12,7 @@
  	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Alex",
-         "FromFile": "Content/Characters/Dialogue/Alex.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Alex.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -20,7 +20,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Caroline",
-         "FromFile": "Content/Characters/Dialogue/Caroline.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Caroline.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -28,7 +28,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Clint",
-         "FromFile": "Content/Characters/Dialogue/Clint.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Clint.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -36,7 +36,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Demetrius",
-         "FromFile": "Content/Characters/Dialogue/Demetrius.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Demetrius.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -44,7 +44,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Dwarf",
-         "FromFile": "Content/Characters/Dialogue/Dwarf.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Dwarf.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -52,7 +52,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Elliott",
-         "FromFile": "Content/Characters/Dialogue/Elliott.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Elliott.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -60,7 +60,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Emily",
-         "FromFile": "Content/Characters/Dialogue/Emily.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Emily.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -68,7 +68,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Evelyn",
-         "FromFile": "Content/Characters/Dialogue/Evelyn.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Evelyn.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -76,7 +76,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/George",
-         "FromFile": "Content/Characters/Dialogue/George.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/George.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -84,7 +84,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Gil",
-         "FromFile": "Content/Characters/Dialogue/Gil.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Gil.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -92,7 +92,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Gus",
-         "FromFile": "Content/Characters/Dialogue/Gus.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Gus.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -100,7 +100,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Haley",
-         "FromFile": "Content/Characters/Dialogue/Haley.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Haley.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -108,7 +108,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Harvey",
-         "FromFile": "Content/Characters/Dialogue/Harvey.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Harvey.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -116,7 +116,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Jas",
-         "FromFile": "Content/Characters/Dialogue/Jas.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Jas.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -124,7 +124,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Jodi",
-         "FromFile": "Content/Characters/Dialogue/Jodi.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Jodi.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -132,7 +132,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Kent",
-         "FromFile": "Content/Characters/Dialogue/Kent.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Kent.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -140,7 +140,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Krobus",
-         "FromFile": "Content/Characters/Dialogue/Krobus.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Krobus.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -148,7 +148,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Leah",
-         "FromFile": "Content/Characters/Dialogue/Leah.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Leah.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -156,7 +156,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Leo",
-         "FromFile": "Content/Characters/Dialogue/Leo.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Leo.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -164,7 +164,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/LeoMainland",
-         "FromFile": "Content/Characters/Dialogue/LeoMainland.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/LeoMainland.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -172,7 +172,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Lewis",
-         "FromFile": "Content/Characters/Dialogue/Lewis.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Lewis.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -180,7 +180,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Linus",
-         "FromFile": "Content/Characters/Dialogue/Linus.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Linus.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -188,7 +188,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Marnie",
-         "FromFile": "Content/Characters/Dialogue/Marnie.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Marnie.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -196,7 +196,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogue",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogue.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogue.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -204,7 +204,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueAbigail",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueAbigail.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueAbigail.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -212,7 +212,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueAlex",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueAlex.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueAlex.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -220,7 +220,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueElliott",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueElliott.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueElliott.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -228,7 +228,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueEmily",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueEmily.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueEmily.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -236,7 +236,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueHaley",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueHaley.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueHaley.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -244,7 +244,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueHarvey",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueHarvey.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueHarvey.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -252,7 +252,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueKrobus",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueKrobus.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueKrobus.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -260,7 +260,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueLeah",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueLeah.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueLeah.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -268,7 +268,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueMaru",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueMaru.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueMaru.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -276,7 +276,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialoguePenny",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialoguePenny.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialoguePenny.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -284,7 +284,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueSam",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueSam.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueSam.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -292,7 +292,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueSebastian",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueSebastian.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueSebastian.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -300,7 +300,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/MarriageDialogueShane",
-         "FromFile": "Content/Characters/Dialogue/MarriageDialogueShane.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/MarriageDialogueShane.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -308,7 +308,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Maru",
-         "FromFile": "Content/Characters/Dialogue/Maru.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Maru.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -316,7 +316,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Mister Qi",
-         "FromFile": "Content/Characters/Dialogue/Mister Qi.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Mister Qi.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -324,7 +324,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Pam",
-         "FromFile": "Content/Characters/Dialogue/Pam.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Pam.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -332,7 +332,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Penny",
-         "FromFile": "Content/Characters/Dialogue/Penny.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Penny.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -340,7 +340,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Pierre",
-         "FromFile": "Content/Characters/Dialogue/Pierre.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Pierre.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -348,7 +348,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/rainy",
-         "FromFile": "Content/Characters/Dialogue/rainy.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/rainy.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -356,7 +356,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Robin",
-         "FromFile": "Content/Characters/Dialogue/Robin.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Robin.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -364,7 +364,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Sam",
-         "FromFile": "Content/Characters/Dialogue/Sam.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Sam.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -372,7 +372,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Sandy",
-         "FromFile": "Content/Characters/Dialogue/Sandy.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Sandy.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -380,7 +380,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Sebastian",
-         "FromFile": "Content/Characters/Dialogue/Sebastian.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Sebastian.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -388,7 +388,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Shane",
-         "FromFile": "Content/Characters/Dialogue/Shane.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Shane.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -396,7 +396,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Vincent",
-         "FromFile": "Content/Characters/Dialogue/Vincent.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Vincent.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -404,7 +404,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Willy",
-         "FromFile": "Content/Characters/Dialogue/Willy.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Willy.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -412,7 +412,7 @@
 	  {
          "Action": "Load",
          "Target": "Characters/Dialogue/Wizard",
-         "FromFile": "Content/Characters/Dialogue/Wizard.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Characters/Dialogue/Wizard.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -420,7 +420,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Achievements",
-         "FromFile": "Content/Data/Achievements.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Achievements.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -428,7 +428,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/BigCraftablesInformation",
-         "FromFile": "Content/Data/BigCraftablesInformation.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/BigCraftablesInformation.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -436,7 +436,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Blueprints",
-         "FromFile": "Content/Data/Blueprints.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Blueprints.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -444,7 +444,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Boots",
-         "FromFile": "Content/Data/Boots.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Boots.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -452,7 +452,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Bundles",
-         "FromFile": "Content/Data/Bundles.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Bundles.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -460,7 +460,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/ClothingInformation",
-         "FromFile": "Content/Data/ClothingInformation.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/ClothingInformation.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -468,7 +468,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Concessions",
-         "FromFile": "Content/Data/Concessions.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Concessions.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -476,7 +476,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/CookingRecipes",
-         "FromFile": "Content/Data/CookingRecipes.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/CookingRecipes.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -484,7 +484,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/CraftingRecipes",
-         "FromFile": "Content/Data/CraftingRecipes.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/CraftingRecipes.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -492,7 +492,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/EngagementDialogue",
-         "FromFile": "Content/Data/EngagementDialogue.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/EngagementDialogue.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -500,7 +500,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/ExtraDialogue",
-         "FromFile": "Content/Data/ExtraDialogue.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/ExtraDialogue.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -508,7 +508,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/FarmAnimals",
-         "FromFile": "Content/Data/FarmAnimals.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/FarmAnimals.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -516,7 +516,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Fish",
-         "FromFile": "Content/Data/Fish.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Fish.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -524,7 +524,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Furniture",
-         "FromFile": "Content/Data/Furniture.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Furniture.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -532,7 +532,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/hats",
-         "FromFile": "Content/Data/hats.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/hats.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -540,7 +540,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/mail",
-         "FromFile": "Content/Data/mail.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/mail.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -548,7 +548,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Monsters",
-         "FromFile": "Content/Data/Monsters.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Monsters.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -556,7 +556,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Movies",
-         "FromFile": "Content/Data/Movies.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Movies.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -564,7 +564,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/MoviesReactions",
-         "FromFile": "Content/Data/MoviesReactions.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/MoviesReactions.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -572,7 +572,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/NPCDispositions",
-         "FromFile": "Content/Data/NPCDispositions.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/NPCDispositions.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -580,7 +580,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/NPCGiftTastes",
-         "FromFile": "Content/Data/NPCGiftTastes.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/NPCGiftTastes.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -588,7 +588,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/ObjectInformation",
-         "FromFile": "Content/Data/ObjectInformation.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/ObjectInformation.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -596,7 +596,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Quests",
-         "FromFile": "Content/Data/Quests.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Quests.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -604,7 +604,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/SecretNotes",
-         "FromFile": "Content/Data/SecretNotes.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/SecretNotes.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -612,7 +612,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/weapons",
-         "FromFile": "Content/Data/weapons.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/weapons.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -620,7 +620,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/AbandonedJojaMart",
-         "FromFile": "Content/Data/Events/AbandonedJojaMart.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/AbandonedJojaMart.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -628,7 +628,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/AnimalShop",
-         "FromFile": "Content/Data/Events/AnimalShop.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/AnimalShop.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -636,7 +636,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/ArchaeologyHouse",
-         "FromFile": "Content/Data/Events/ArchaeologyHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/ArchaeologyHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -644,7 +644,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Backwoods",
-         "FromFile": "Content/Data/Events/Backwoods.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Backwoods.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -652,7 +652,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/BathHouse_Pool",
-         "FromFile": "Content/Data/Events/BathHouse_Pool.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/BathHouse_Pool.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -660,7 +660,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Beach",
-         "FromFile": "Content/Data/Events/Beach.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Beach.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -668,7 +668,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/BoatTunnel",
-         "FromFile": "Content/Data/Events/BoatTunnel.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/BoatTunnel.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -676,7 +676,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/BusStop",
-         "FromFile": "Content/Data/Events/BusStop.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/BusStop.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -684,7 +684,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/CommunityCenter",
-         "FromFile": "Content/Data/Events/CommunityCenter.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/CommunityCenter.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -692,7 +692,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/ElliottHouse",
-         "FromFile": "Content/Data/Events/ElliottHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/ElliottHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -700,7 +700,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Farm",
-         "FromFile": "Content/Data/Events/Farm.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Farm.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -708,7 +708,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/FarmHouse",
-         "FromFile": "Content/Data/Events/FarmHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/FarmHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -716,7 +716,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/FishShop",
-         "FromFile": "Content/Data/Events/FishShop.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/FishShop.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -724,7 +724,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Forest",
-         "FromFile": "Content/Data/Events/Forest.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Forest.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -732,7 +732,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/HaleyHouse",
-         "FromFile": "Content/Data/Events/HaleyHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/HaleyHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -740,7 +740,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/HarveyRoom",
-         "FromFile": "Content/Data/Events/HarveyRoom.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/HarveyRoom.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -748,7 +748,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Hospital",
-         "FromFile": "Content/Data/Events/Hospital.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Hospital.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -756,7 +756,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/IslandHut",
-         "FromFile": "Content/Data/Events/IslandHut.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/IslandHut.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -764,7 +764,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/IslandNorth",
-         "FromFile": "Content/Data/Events/IslandNorth.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/IslandNorth.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -772,7 +772,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/IslandSouth",
-         "FromFile": "Content/Data/Events/IslandSouth.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/IslandSouth.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -780,7 +780,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/IslandWest",
-         "FromFile": "Content/Data/Events/IslandWest.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/IslandWest.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -788,7 +788,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/JoshHouse",
-         "FromFile": "Content/Data/Events/JoshHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/JoshHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -796,7 +796,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/LeahHouse",
-         "FromFile": "Content/Data/Events/LeahHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/LeahHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -804,7 +804,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/ManorHouse",
-         "FromFile": "Content/Data/Events/ManorHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/ManorHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -812,7 +812,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Mine",
-         "FromFile": "Content/Data/Events/Mine.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Mine.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -820,7 +820,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Mountain",
-         "FromFile": "Content/Data/Events/Mountain.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Mountain.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -828,7 +828,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/QiNutRoom",
-         "FromFile": "Content/Data/Events/QiNutRoom.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/QiNutRoom.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -836,7 +836,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Railroad",
-         "FromFile": "Content/Data/Events/Railroad.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Railroad.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -844,7 +844,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Saloon",
-         "FromFile": "Content/Data/Events/Saloon.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Saloon.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -852,7 +852,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/SamHouse",
-         "FromFile": "Content/Data/Events/SamHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/SamHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -860,7 +860,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/SandyHouse",
-         "FromFile": "Content/Data/Events/SandyHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/SandyHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -868,7 +868,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/ScienceHouse",
-         "FromFile": "Content/Data/Events/ScienceHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/ScienceHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -876,7 +876,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/SebastianRoom",
-         "FromFile": "Content/Data/Events/SebastianRoom.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/SebastianRoom.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -884,7 +884,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/SeedShop",
-         "FromFile": "Content/Data/Events/SeedShop.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/SeedShop.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -892,7 +892,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Sewer",
-         "FromFile": "Content/Data/Events/Sewer.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Sewer.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -900,7 +900,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Sunroom",
-         "FromFile": "Content/Data/Events/Sunroom.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Sunroom.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -908,7 +908,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Temp",
-         "FromFile": "Content/Data/Events/Temp.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Temp.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -916,7 +916,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Tent",
-         "FromFile": "Content/Data/Events/Tent.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Tent.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -924,7 +924,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Town",
-         "FromFile": "Content/Data/Events/Town.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Town.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -932,7 +932,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Trailer",
-         "FromFile": "Content/Data/Events/Trailer.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Trailer.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -940,7 +940,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Trailer_Big",
-         "FromFile": "Content/Data/Events/Trailer_Big.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Trailer_Big.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -948,7 +948,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/WizardHouse",
-         "FromFile": "Content/Data/Events/WizardHouse.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/WizardHouse.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -956,7 +956,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Events/Woods",
-         "FromFile": "Content/Data/Events/Woods.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Events/Woods.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -964,7 +964,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/fall16",
-         "FromFile": "Content/Data/Festivals/fall16.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/fall16.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -972,7 +972,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/fall27",
-         "FromFile": "Content/Data/Festivals/fall27.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/fall27.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -980,7 +980,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/FestivalDates",
-         "FromFile": "Content/Data/Festivals/FestivalDates.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/FestivalDates.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -988,7 +988,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/spring13",
-         "FromFile": "Content/Data/Festivals/spring13.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/spring13.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -996,7 +996,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/spring24",
-         "FromFile": "Content/Data/Festivals/spring24.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/spring24.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1004,7 +1004,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/summer11",
-         "FromFile": "Content/Data/Festivals/summer11.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/summer11.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1012,7 +1012,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/summer28",
-         "FromFile": "Content/Data/Festivals/summer28.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/summer28.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1020,7 +1020,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/winter8",
-         "FromFile": "Content/Data/Festivals/winter8.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/winter8.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1028,7 +1028,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/Festivals/winter25",
-         "FromFile": "Content/Data/Festivals/winter25.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/Festivals/winter25.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1036,7 +1036,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/TV/CookingChannel",
-         "FromFile": "Content/Data/TV/CookingChannel.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/TV/CookingChannel.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1044,7 +1044,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/TV/InterviewShow",
-         "FromFile": "Content/Data/TV/InterviewShow.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/TV/InterviewShow.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1052,7 +1052,7 @@
 	  {
          "Action": "Load",
          "Target": "Data/TV/TipChannel",
-         "FromFile": "Content/Data/TV/TipChannel.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Data/TV/TipChannel.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1060,7 +1060,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/Billboard",
-         "FromFile": "Content/LooseSprites/Billboard.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/Billboard.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1068,7 +1068,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/ControllerMaps",
-         "FromFile": "Content/LooseSprites/ControllerMaps.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/ControllerMaps.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1076,7 +1076,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/Cursors",
-         "FromFile": "Content/LooseSprites/Cursors.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/Cursors.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1084,7 +1084,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/Cursors2",
-         "FromFile": "Content/LooseSprites/Cursors2.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/Cursors2.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1092,7 +1092,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/JojaCDForm",
-         "FromFile": "Content/LooseSprites/JojaCDForm.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/JojaCDForm.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1100,7 +1100,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/JunimoNote",
-         "FromFile": "Content/LooseSprites/JunimoNote.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/JunimoNote.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1108,12 +1108,12 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/LanguageButtons",
-         "FromFile": "Content/LooseSprites/LanguageButtons.gd-GD.png"
+         "FromFile": "Content/gd_GUD/LooseSprites/LanguageButtons.gd-GD.png"
       },
 	  {
          "Action": "Load",
          "Target": "LooseSprites/Logo",
-         "FromFile": "Content/LooseSprites/Logo.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/Logo.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1121,7 +1121,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/Movies",
-         "FromFile": "Content/LooseSprites/Movies.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/Movies.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1129,7 +1129,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/yellowLettersLogo",
-         "FromFile": "Content/LooseSprites/yellowLettersLogo.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/yellowLettersLogo.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1137,7 +1137,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/bathhouse_tiles",
-         "FromFile": "Content/Maps/bathhouse_tiles.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/bathhouse_tiles.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1145,7 +1145,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/coopTiles",
-         "FromFile": "Content/Maps/coopTiles.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/coopTiles.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1153,7 +1153,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/DesertTiles",
-         "FromFile": "Content/Maps/DesertTiles.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/DesertTiles.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1161,7 +1161,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/fall_beach",
-         "FromFile": "Content/Maps/fall_beach.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/fall_beach.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1169,7 +1169,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/fall_outdoorsTileSheet",
-         "FromFile": "Content/Maps/fall_outdoorsTileSheet.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/fall_outdoorsTileSheet.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1177,7 +1177,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/fall_town",
-         "FromFile": "Content/Maps/fall_town.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/fall_town.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1185,7 +1185,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/Festivals",
-         "FromFile": "Content/Maps/Festivals.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/Festivals.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1193,7 +1193,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/samshowtiles",
-         "FromFile": "Content/Maps/samshowtiles.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/samshowtiles.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1201,7 +1201,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/spring_beach",
-         "FromFile": "Content/Maps/spring_beach.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/spring_beach.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1209,7 +1209,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/spring_outdoorsTileSheet",
-         "FromFile": "Content/Maps/spring_outdoorsTileSheet.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/spring_outdoorsTileSheet.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1217,7 +1217,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/spring_town",
-         "FromFile": "Content/Maps/spring_town.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/spring_town.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1225,7 +1225,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/springobjects",
-         "FromFile": "Content/Maps/springobjects.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/springobjects.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1233,7 +1233,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/stadium_tiles",
-         "FromFile": "Content/Maps/stadium_tiles.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/stadium_tiles.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1241,7 +1241,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/summer_beach",
-         "FromFile": "Content/Maps/summer_beach.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/summer_beach.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1249,7 +1249,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/summer_outdoorsTileSheet",
-         "FromFile": "Content/Maps/summer_outdoorsTileSheet.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/summer_outdoorsTileSheet.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1257,7 +1257,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/summer_town",
-         "FromFile": "Content/Maps/summer_town.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/summer_town.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1265,7 +1265,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/TownIndoors",
-         "FromFile": "Content/Maps/TownIndoors.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/TownIndoors.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1273,7 +1273,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/townInterior",
-         "FromFile": "Content/Maps/townInterior.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/townInterior.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1281,7 +1281,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/winter_beach",
-         "FromFile": "Content/Maps/winter_beach.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/winter_beach.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1289,7 +1289,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/winter_outdoorsTileSheet",
-         "FromFile": "Content/Maps/winter_outdoorsTileSheet.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/winter_outdoorsTileSheet.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1297,7 +1297,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/winter_town",
-         "FromFile": "Content/Maps/winter_town.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/winter_town.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1305,7 +1305,7 @@
 	  {
          "Action": "Load",
          "Target": "Minigames/Intro",
-         "FromFile": "Content/Minigames/Intro.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Minigames/Intro.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1313,7 +1313,7 @@
 	  {
          "Action": "Load",
          "Target": "Minigames/jojacorps",
-         "FromFile": "Content/Minigames/jojacorps.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Minigames/jojacorps.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1321,7 +1321,7 @@
 	  {
          "Action": "Load",
          "Target": "Minigames/MineCart",
-         "FromFile": "Content/Minigames/MineCart.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Minigames/MineCart.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1329,12 +1329,12 @@
 	  {
          "Action": "Load",
          "Target": "Minigames/TitleButtons",
-         "FromFile": "Content/Minigames/TitleButtons.gd-GD.png"
+         "FromFile": "Content/gd_GUD/Minigames/TitleButtons.gd-GD.png"
       },
 	  {
          "Action": "Load",
          "Target": "Strings/animationDescriptions",
-         "FromFile": "Content/Strings/animationDescriptions.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/animationDescriptions.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1342,7 +1342,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Buildings",
-         "FromFile": "Content/Strings/Buildings.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Buildings.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1350,7 +1350,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/BundleNames",
-         "FromFile": "Content/Strings/BundleNames.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/BundleNames.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1358,7 +1358,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Characters",
-         "FromFile": "Content/Strings/Characters.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Characters.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1366,7 +1366,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/credits",
-         "FromFile": "Content/Strings/credits.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/credits.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1374,7 +1374,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/EnchantmentNames",
-         "FromFile": "Content/Strings/EnchantmentNames.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/EnchantmentNames.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1382,7 +1382,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Events",
-         "FromFile": "Content/Strings/Events.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Events.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1390,7 +1390,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/FarmAnimals",
-         "FromFile": "Content/Strings/FarmAnimals.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/FarmAnimals.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1398,7 +1398,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Lexicon",
-         "FromFile": "Content/Strings/Lexicon.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Lexicon.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1406,7 +1406,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Locations",
-         "FromFile": "Content/Strings/Locations.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Locations.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1414,7 +1414,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Notes",
-         "FromFile": "Content/Strings/Notes.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Notes.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1422,7 +1422,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/NPCNames",
-         "FromFile": "Content/Strings/NPCNames.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/NPCNames.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1430,7 +1430,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Objects",
-         "FromFile": "Content/Strings/Objects.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Objects.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1438,7 +1438,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/Quests",
-         "FromFile": "Content/Strings/Quests.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/Quests.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1446,7 +1446,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/SpecialOrderStrings",
-         "FromFile": "Content/Strings/SpecialOrderStrings.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/SpecialOrderStrings.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1454,7 +1454,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/SpeechBubbles",
-         "FromFile": "Content/Strings/SpeechBubbles.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/SpeechBubbles.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1462,7 +1462,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/StringsFromCSFiles",
-         "FromFile": "Content/Strings/StringsFromCSFiles.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/StringsFromCSFiles.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1470,7 +1470,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/StringsFromMaps",
-         "FromFile": "Content/Strings/StringsFromMaps.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/StringsFromMaps.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1478,7 +1478,7 @@
  	  {
          "Action": "Load",
          "Target": "Strings/UI",
-         "FromFile": "Content/Strings/UI.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/UI.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1486,7 +1486,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Abigail",
-         "FromFile": "Content/Strings/schedules/Abigail.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Abigail.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1494,7 +1494,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Alex",
-         "FromFile": "Content/Strings/schedules/Alex.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Alex.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1502,7 +1502,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Caroline",
-         "FromFile": "Content/Strings/schedules/Caroline.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Caroline.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1510,7 +1510,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Clint",
-         "FromFile": "Content/Strings/schedules/Clint.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Clint.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1518,7 +1518,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Demetrius",
-         "FromFile": "Content/Strings/schedules/Demetrius.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Demetrius.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1526,7 +1526,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Elliott",
-         "FromFile": "Content/Strings/schedules/Elliott.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Elliott.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1534,7 +1534,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Emily",
-         "FromFile": "Content/Strings/schedules/Emily.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Emily.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1542,7 +1542,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Evelyn",
-         "FromFile": "Content/Strings/schedules/Evelyn.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Evelyn.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1550,7 +1550,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/George",
-         "FromFile": "Content/Strings/schedules/George.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/George.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1558,7 +1558,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Gus",
-         "FromFile": "Content/Strings/schedules/Gus.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Gus.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1566,7 +1566,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Haley",
-         "FromFile": "Content/Strings/schedules/Haley.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Haley.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1574,7 +1574,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Harvey",
-         "FromFile": "Content/Strings/schedules/Harvey.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Harvey.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1582,7 +1582,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Jas",
-         "FromFile": "Content/Strings/schedules/Jas.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Jas.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1590,7 +1590,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Jodi",
-         "FromFile": "Content/Strings/schedules/Jodi.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Jodi.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1598,7 +1598,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Leah",
-         "FromFile": "Content/Strings/schedules/Leah.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Leah.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1606,7 +1606,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Leo",
-         "FromFile": "Content/Strings/schedules/Leo.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Leo.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1614,7 +1614,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Lewis",
-         "FromFile": "Content/Strings/schedules/Lewis.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Lewis.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1622,7 +1622,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Linus",
-         "FromFile": "Content/Strings/schedules/Linus.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Linus.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1630,7 +1630,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Marnie",
-         "FromFile": "Content/Strings/schedules/Marnie.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Marnie.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1638,7 +1638,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Maru",
-         "FromFile": "Content/Strings/schedules/Maru.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Maru.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1646,7 +1646,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Pam",
-         "FromFile": "Content/Strings/schedules/Pam.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Pam.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1654,7 +1654,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Penny",
-         "FromFile": "Content/Strings/schedules/Penny.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Penny.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1662,7 +1662,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Pierre",
-         "FromFile": "Content/Strings/schedules/Pierre.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Pierre.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1670,7 +1670,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Robin",
-         "FromFile": "Content/Strings/schedules/Robin.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Robin.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1678,7 +1678,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Sam",
-         "FromFile": "Content/Strings/schedules/Sam.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Sam.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1686,7 +1686,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Sandy",
-         "FromFile": "Content/Strings/schedules/Sandy.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Sandy.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1694,7 +1694,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Sebastian",
-         "FromFile": "Content/Strings/schedules/Sebastian.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Sebastian.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1702,7 +1702,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Shane",
-         "FromFile": "Content/Strings/schedules/Shane.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Shane.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1710,7 +1710,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Vincent",
-         "FromFile": "Content/Strings/schedules/Vincent.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Vincent.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1718,7 +1718,7 @@
 	  {
          "Action": "Load",
          "Target": "Strings/schedules/Willy",
-         "FromFile": "Content/Strings/schedules/Willy.gd-GD.json",
+         "FromFile": "Content/gd_GUD/Strings/schedules/Willy.gd-GD.json",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1726,7 +1726,7 @@
 	  {
          "Action": "Load",
          "Target": "TileSheets/furniture",
-         "FromFile": "Content/TileSheets/furniture.gd-GD.png",
+         "FromFile": "Content/gd_GUD/TileSheets/furniture.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1734,7 +1734,7 @@
 	  {
          "Action": "Load",
          "Target": "Maps/samshowtiles",
-         "FromFile": "Content/Maps/samshowtiles.gd-GD.png",
+         "FromFile": "Content/gd_GUD/Maps/samshowtiles.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1742,7 +1742,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/CraneGame",
-         "FromFile": "Content/LooseSprites/CraneGame_international.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/CraneGame_international.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1750,7 +1750,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/MobileAtlas_manually_made",
-         "FromFile": "Content/LooseSprites/MobileAtlas_manually_made.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/MobileAtlas_manually_made.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
@@ -1758,7 +1758,7 @@
 	  {
          "Action": "Load",
          "Target": "LooseSprites/logo",
-         "FromFile": "Content/LooseSprites/logo.gd-GD.png",
+         "FromFile": "Content/gd_GUD/LooseSprites/logo.gd-GD.png",
 		 "When": {
 			"Language": "en"
 		  }
